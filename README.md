@@ -13,7 +13,7 @@ I am constantly learning and seeking opportunities to apply my skills in real-wo
 
 ### Technologies I Work With
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP
+- **Backend**: Python, PHP
 - **Databases**: MySQL
 - **Version Control**: Git
 
