@@ -3,7 +3,7 @@
 I'm a passionate student of Software Analysis and Development at SENA, with a strong background as a Technician in Systems Analysis and Programming. My interest in technology and software development has driven me to explore various areas of programming, from web application development to implementing business logic and backend systems.
 
 ## What do I do?
-- **Software Development**: I enjoy building functional and efficient applications using languages like Java, Python, PHP, and JavaScript.
+- **Software Development**: I enjoy building functional and efficient applications using languages like Python, PHP, and JavaScript.
 - **Systems Analysis**: I have experience in analyzing and designing systems, which allows me to tackle complex problems with innovative solutions.
 - **Databases**: I work with relational databases, ensuring that data is managed optimally and securely.
 - **Teamwork**: I collaborate on projects where communication and organization are key to success.
