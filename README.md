@@ -43,5 +43,5 @@ Soy un apasionado **Análista y Desarrollador de Software**, con formación como
 
 ## 🌐 Conéctate conmigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](github.com/liangreyes12) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/liang-josé-reyes-luzardo-070515258)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/liangreyes12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liang-josé-reyes-luzardo-070515258)
